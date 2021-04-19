@@ -1,5 +1,8 @@
 # XSS_FUZZ Tool
 
+目前只支持GET请求，需自定义xss Payload
+
+
 使用说明：
 
 ![image](https://user-images.githubusercontent.com/39295496/115241320-43654580-a153-11eb-9e73-55a09a6087cc.png)
