@@ -1,5 +1,5 @@
 # XSS_FUZZ Tool 
-[![Page Views Count](https://badges.toozhao.com/badges/01F3QVF21M891S2BHWX5GZPDW2/green.svg)]
+[![Page Views Count](https://badges.toozhao.com/badges/01F3QVF21M891S2BHWX5GZPDW2/green.svg)](https://badges.toozhao.com/stats/01F3QVF21M891S2BHWX5GZPDW2 "Get your own page views count badge on badges.toozhao.com")
 
 目前只支持GET请求，需自定义xss Payload
 
