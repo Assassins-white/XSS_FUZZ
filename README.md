@@ -1,4 +1,5 @@
-# XSS_FUZZ Tool
+# XSS_FUZZ Tool 
+[![Page Views Count](https://badges.toozhao.com/badges/01F3QVF21M891S2BHWX5GZPDW2/green.svg)]
 
 目前只支持GET请求，需自定义xss Payload
 
